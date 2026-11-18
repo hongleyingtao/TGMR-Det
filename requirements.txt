@@ -1,0 +1,9 @@
+# Suggested installed version for experiments: PyTorch 2.9.1 (see official PyTorch wheels).
+torch>=2.3
+torchvision>=0.18
+ultralytics>=8.3  # required for the paper-faithful official YOLO11n backbone
+numpy>=1.24
+Pillow>=10.0
+PyYAML>=6.0
+tqdm>=4.65
+opencv-python>=4.8
