@@ -54,8 +54,6 @@ python detect.py --config configs/aeromis_vt.yaml --weights path/to/best.pt --vi
 
 The **AeroMis-VT** dataset contains naturally misaligned visible-thermal UAV image pairs collected using a ground-based dual-sensor imaging system.
 
-Due to restrictions associated with an ongoing research project, the original AeroMis-VT dataset is not currently included in this repository.
-
 ## Citation
 
 If you find this work useful, please consider citing our paper:
